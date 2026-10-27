@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+
+# IDE and Editor files
+.vscode/
+.idea/
+.qodo/
+
+# VS Code Code Runner temporary files
+*tempCodeRunnerFile.py
